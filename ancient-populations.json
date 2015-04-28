@@ -1,0 +1,185 @@
+{"comment": "Very first go at Roman populations. Default source is A. Wilson in “Settlement, Urbanization, and Population”. And I have even made that explicit in a few cases. His target is mid-2nd century AD.",
+"roman.urban.populations":[
+  {
+    "title": "Arles",
+    "pleiades": "http://pleiades.stoa.org/places/148217",
+    "population": "10000"
+  },
+  {
+    "title": "Lyon",
+    "pleiades": "http://pleiades.stoa.org/places/167717",
+    "population": "25000"
+  },
+  {
+    "title": "Rome",
+    "pleiades": "http://pleiades.stoa.org/places/423025",
+    "population": "1000000",
+    "source": "Wilson2011"
+  },
+  {
+    "title": "Ostia",
+    "population": "40000",
+    "source": "Wilson2011"
+  },
+  {
+    "title": "Pompeii",
+    "pleiades": "http://pleiades.stoa.org/places/433032",
+    "population": "11000"
+  },
+  {
+    "title": "Syracuse",
+    "pleiades": "http://pleiades.stoa.org/places/462503",
+    "population": "90000"
+  },
+  {
+    "title": "Carthage",
+    "pleiades": "http://pleiades.stoa.org/places/314921",
+    "population": "300000"
+  },
+  {
+    "title": "Corinth",
+    "pleiades": "http://pleiades.stoa.org/places/570182",
+    "population": "80000"
+  },
+  {
+    "title": "Civilian Carnuntum",
+    "pleiades": "http://pleiades.stoa.org/places/128376",
+    "population": "12000"
+  },
+  {
+    "title": "Leptis Magna",
+    "pleiades": "http://pleiades.stoa.org/places/344448",
+    "population": "90000"
+  },
+  {
+    "title": "Viminacium",
+    "pleiades": "http://pleiades.stoa.org/places/207549",
+    "population": "12500"
+  },
+  {
+    "title": "Flavia Solva",
+    "pleiades": "http://pleiades.stoa.org/places/197273",
+    "population": "7000"
+  },
+  {
+    "title": "Paris",
+    "pleiades": "http://pleiades.stoa.org/places/109126",
+    "population": "8000"
+  },
+  {
+    "title": "Cyrene",
+    "pleiades": "http://pleiades.stoa.org/places/373778",
+    "population": "25000"
+  },
+  {
+    "title": "Nimes",
+    "pleiades": "http://pleiades.stoa.org/places/148142",
+    "population": "12000"
+  },
+  {
+    "title": "Bordeaux",
+    "pleiades": "http://pleiades.stoa.org/places/138248",
+    "population": "15000"
+  },
+  {
+    "title": "Civil Budapest",
+    "pleiades": "http://pleiades.stoa.org/places/197130",
+    "population": "10000"
+  },
+  {
+    "title": "Col. Augusta Raurica",
+    "pleiades": "http://pleiades.stoa.org/places/177494",
+    "population": "8000"
+  },
+  {
+    "title": "Ulpia Traiana Sarmizegetusa",
+    "pleiades": "http://pleiades.stoa.org/places/207527",
+    "population": "15000"
+  },
+  {
+    "title": "Small Thysdrus",
+    "pleiades": "http://pleiades.stoa.org/places/324835",
+    "population": "45000"
+  },
+  {
+    "title": "Thysdrus",
+    "pleiades": "http://pleiades.stoa.org/places/324835",
+    "population": "45000"
+  },
+  {
+    "title": "Amphitheater Fréjus",
+    "pleiades": "http://pleiades.stoa.org/places/157836",
+    "population": "10000"
+  },
+  {
+    "title": "Cherchell",
+    "pleiades": "http://pleiades.stoa.org/places/295279",
+    "population": "63000"
+  },
+  {
+    "title": "Caesarea",
+    "pleiades": "",
+    "population": "75000"
+  },
+  {
+    "title": "Pergamum",
+    "pleiades": "",
+    "population": "32850"
+  },
+  {
+    "title": "Antioch",
+    "pleiades": "",
+    "population": "250000"
+  },
+  {
+    "title": "Cyzicus",
+    "pleiades": "",
+    "population": "25200"
+  },
+  {
+    "title": "Salamis",
+    "pleiades": "",
+    "population": "20000"
+  },
+  {
+    "title": "Paphos",
+    "pleiades": "",
+    "population": "15000"
+  },
+  {
+    "title": "Ptolemais",
+    "pleiades": "",
+    "population": "30000"
+  },
+  {
+    "title": "Besançon",
+    "pleiades": "",
+    "population": "8000"
+  },
+  {
+    "title": "Termini Imerese",
+    "pleiades": "",
+    "population": "8000"
+  },
+  {
+    "title": "Béziers",
+    "pleiades": "",
+    "population": "8000"
+  },
+  {
+    "title": "Narbonne",
+    "pleiades": "",
+    "population": "20000"
+  },
+  {
+    "title": "Xanten",
+    "pleiades": "",
+    "population": "10000"
+  },
+  {
+    "title": "Bosra",
+    "pleiades": "",
+    "population": "10000"
+  }
+]
+}
