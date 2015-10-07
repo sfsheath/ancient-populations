@@ -181,6 +181,12 @@
     "title": "Bosra",
     "pleiades": "",
     "population": "10000"
+  },
+  {
+    "title": "Sagalassos",
+    "pleiades": "http://pleiades.stoa.org/places/639087",
+    "population": "5000",
+    "note": "Loosely taken from Willet and Poblome. 2015. “The Scale of Sagalassos Red Slip Ware Production - Reconstructions of Local Need and Production Output of Roman Imperial Tableware.” ADALYA XVIII."
   }
 ]
 }
